@@ -8,5 +8,5 @@ The research piece is meant to simulate a real-world exercise in which a client 
 
 The files in this repository include:
 - `COVID19_Report.rmd` file 
-- `index.html` file that shows the complete report
+- `index.html` file that shows the complete report ([Click Here](https://jcook125.github.io/Rmd-Memo-Example/))
 - `cdc vax mar1.csv` file for one of the initial datasets
